@@ -1,0 +1,3 @@
+This is the new file that I'm creating.
+.md means markdown.
+.txt means text file.
